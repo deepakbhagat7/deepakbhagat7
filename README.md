@@ -4,7 +4,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagat7" alt="deepakbhagat7" /> </p>
 
-<p><i> I'm Deep Narayan Bhagat a 3rd year Information Technology Undergraduate from Netaji Subhash Engineering College, Kolkata. I'm a Tech Enthusiast, Full Stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Deep Narayan Bhagat a 2nd year Information Technology Undergraduate from Netaji Subhash Engineering College, Kolkata. I'm a Tech Enthusiast, Full Stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Java</code></li>
